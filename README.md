@@ -1,2 +1,2 @@
-# Semana4
-Banco, estudiantes y  barco
+# EJERCICIODELBANCOPOO
+Aca esta toda la estructura de como se sinulo un "banco"
